@@ -1,0 +1,8 @@
+﻿# 第三方原著全文与剧照参考，仅本地研究用，不公开
+tmp/西游记后传.txt
+tmp/imagegen/references/
+
+# 运行环境临时目录
+tmp/dsh-extract/
+tmp/pytmp/
+tmp/skill-candidates/
